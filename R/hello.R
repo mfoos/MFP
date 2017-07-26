@@ -9,5 +9,6 @@
 #' greet("Mary")
 #' @export
 greet <- function(name){
+  stopifnot(is.character(name))
   print(paste("Hello", name))
 }
