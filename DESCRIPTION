@@ -1,0 +1,10 @@
+Package: MFP
+Title: Dummy Package
+Version: 0.0.1
+Authors@R: person("Marianna", "Foos", email = "marianna.foos@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.3.2)
+License: Artistic-2.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
